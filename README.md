@@ -23,6 +23,26 @@ The dataset contains **8124 rows** of clean data with the following features:
 
 > Note: All missing values have been handled and categorical variables normalized.
 
+## 🖼️ Dataset Visualization
+
+Below is a sample visualization of the dataset distribution:
+
+![Dataset Distribution](screenshots/Figure_1.png)
+
+![Dataset Distribution](screenshots/Figure_2.png)
+
+![Dataset Distribution](screenshots/Figure_3.png)
+
+![Dataset Distribution](screenshots/Figure_4.png)
+
+![Dataset Distribution](screenshots/Figure_5.png)
+
+![Dataset Distribution](screenshots/Figure_6.png)
+
+![Dataset Distribution](screenshots/Figure_7.png)
+
+![Dataset Distribution](screenshots/Figure_8.png)
+
 ---
 
 ## 🧠 Algorithms Used
