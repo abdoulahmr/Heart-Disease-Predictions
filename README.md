@@ -17,8 +17,6 @@ The dataset contains **8124 rows** of clean data with the following features:
 - `exang`: Exercise-induced angina (1 = yes; 0 = no)
 - `oldpeak`: ST depression induced by exercise relative to rest
 - `slope`: Slope of the peak exercise ST segment
-- `ca`: Number of major vessels (0–3) colored by fluoroscopy
-- `thal`: Thalassemia (0 = normal; 1 = fixed defect; 2 = reversible defect)
 - `heart_disease`: Target variable (1 = disease; 0 = no disease)
 
 > Note: All missing values have been handled and categorical variables normalized.
